@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\Three-dimensionalArray\Vivod-4h-merniyMassiv\bin\Debug\Vivod-4h-merniyMassiv.exe.config
+C:\Users\пк\source\repos\Three-dimensionalArray\Vivod-4h-merniyMassiv\bin\Debug\Vivod-4h-merniyMassiv.exe
+C:\Users\пк\source\repos\Three-dimensionalArray\Vivod-4h-merniyMassiv\bin\Debug\Vivod-4h-merniyMassiv.pdb
+C:\Users\пк\source\repos\Three-dimensionalArray\Vivod-4h-merniyMassiv\obj\Debug\Vivod-4h-merniyMassiv.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\Three-dimensionalArray\Vivod-4h-merniyMassiv\obj\Debug\Vivod-4h-merniyMassiv.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Three-dimensionalArray\Vivod-4h-merniyMassiv\obj\Debug\Vivod-4h-merniyMassiv.exe
+C:\Users\пк\source\repos\Three-dimensionalArray\Vivod-4h-merniyMassiv\obj\Debug\Vivod-4h-merniyMassiv.pdb

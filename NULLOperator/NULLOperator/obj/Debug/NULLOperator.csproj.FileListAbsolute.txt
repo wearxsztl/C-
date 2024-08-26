@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\NULLOperator\NULLOperator\bin\Debug\NULLOperator.exe.config
+C:\Users\пк\source\repos\NULLOperator\NULLOperator\bin\Debug\NULLOperator.exe
+C:\Users\пк\source\repos\NULLOperator\NULLOperator\bin\Debug\NULLOperator.pdb
+C:\Users\пк\source\repos\NULLOperator\NULLOperator\obj\Debug\NULLOperator.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\NULLOperator\NULLOperator\obj\Debug\NULLOperator.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\NULLOperator\NULLOperator\obj\Debug\NULLOperator.exe
+C:\Users\пк\source\repos\NULLOperator\NULLOperator\obj\Debug\NULLOperator.pdb

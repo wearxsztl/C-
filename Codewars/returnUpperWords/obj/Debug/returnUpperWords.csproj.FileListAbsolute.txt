@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\Codewars\returnUpperWords\obj\Debug\returnUpperWords.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\Codewars\returnUpperWords\obj\Debug\returnUpperWords.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Codewars\returnUpperWords\bin\Debug\returnUpperWords.exe.config
+C:\Users\пк\source\repos\Codewars\returnUpperWords\bin\Debug\returnUpperWords.exe
+C:\Users\пк\source\repos\Codewars\returnUpperWords\bin\Debug\returnUpperWords.pdb
+C:\Users\пк\source\repos\Codewars\returnUpperWords\obj\Debug\returnUpperWords.exe
+C:\Users\пк\source\repos\Codewars\returnUpperWords\obj\Debug\returnUpperWords.pdb

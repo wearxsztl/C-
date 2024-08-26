@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\Tasks\PositiveSumm\bin\Debug\PositiveSumm.exe.config
+C:\Users\пк\source\repos\Tasks\PositiveSumm\bin\Debug\PositiveSumm.exe
+C:\Users\пк\source\repos\Tasks\PositiveSumm\bin\Debug\PositiveSumm.pdb
+C:\Users\пк\source\repos\Tasks\PositiveSumm\obj\Debug\PositiveSumm.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\Tasks\PositiveSumm\obj\Debug\PositiveSumm.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Tasks\PositiveSumm\obj\Debug\PositiveSumm.exe
+C:\Users\пк\source\repos\Tasks\PositiveSumm\obj\Debug\PositiveSumm.pdb

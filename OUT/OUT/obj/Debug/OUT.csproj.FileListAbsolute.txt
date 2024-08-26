@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\OUT\OUT\obj\Debug\OUT.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\OUT\OUT\obj\Debug\OUT.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\OUT\OUT\bin\Debug\OUT.exe.config
+C:\Users\пк\source\repos\OUT\OUT\bin\Debug\OUT.exe
+C:\Users\пк\source\repos\OUT\OUT\bin\Debug\OUT.pdb
+C:\Users\пк\source\repos\OUT\OUT\obj\Debug\OUT.exe
+C:\Users\пк\source\repos\OUT\OUT\obj\Debug\OUT.pdb

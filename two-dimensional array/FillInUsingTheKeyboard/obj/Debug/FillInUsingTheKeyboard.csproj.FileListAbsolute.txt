@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\two-dimensional array\FillInUsingTheKeyboard\bin\Debug\FillInUsingTheKeyboard.exe.config
+C:\Users\пк\source\repos\two-dimensional array\FillInUsingTheKeyboard\bin\Debug\FillInUsingTheKeyboard.exe
+C:\Users\пк\source\repos\two-dimensional array\FillInUsingTheKeyboard\bin\Debug\FillInUsingTheKeyboard.pdb
+C:\Users\пк\source\repos\two-dimensional array\FillInUsingTheKeyboard\obj\Debug\FillInUsingTheKeyboard.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\two-dimensional array\FillInUsingTheKeyboard\obj\Debug\FillInUsingTheKeyboard.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\two-dimensional array\FillInUsingTheKeyboard\obj\Debug\FillInUsingTheKeyboard.exe
+C:\Users\пк\source\repos\two-dimensional array\FillInUsingTheKeyboard\obj\Debug\FillInUsingTheKeyboard.pdb

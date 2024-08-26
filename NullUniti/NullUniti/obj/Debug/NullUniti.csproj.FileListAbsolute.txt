@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\NullUniti\NullUniti\obj\Debug\NullUniti.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\NullUniti\NullUniti\obj\Debug\NullUniti.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\NullUniti\NullUniti\bin\Debug\NullUniti.exe.config
+C:\Users\пк\source\repos\NullUniti\NullUniti\bin\Debug\NullUniti.exe
+C:\Users\пк\source\repos\NullUniti\NullUniti\bin\Debug\NullUniti.pdb
+C:\Users\пк\source\repos\NullUniti\NullUniti\obj\Debug\NullUniti.exe
+C:\Users\пк\source\repos\NullUniti\NullUniti\obj\Debug\NullUniti.pdb

@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\Cycle\HW4\bin\Debug\HW4.exe.config
+C:\Users\пк\source\repos\Cycle\HW4\bin\Debug\HW4.exe
+C:\Users\пк\source\repos\Cycle\HW4\bin\Debug\HW4.pdb
+C:\Users\пк\source\repos\Cycle\HW4\obj\Debug\HW4.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\Cycle\HW4\obj\Debug\HW4.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Cycle\HW4\obj\Debug\HW4.exe
+C:\Users\пк\source\repos\Cycle\HW4\obj\Debug\HW4.pdb

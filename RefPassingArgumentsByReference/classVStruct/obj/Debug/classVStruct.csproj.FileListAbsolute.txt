@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\RefPassingArgumentsByReference\classVStruct\bin\Debug\classVStruct.exe.config
+C:\Users\пк\source\repos\RefPassingArgumentsByReference\classVStruct\bin\Debug\classVStruct.exe
+C:\Users\пк\source\repos\RefPassingArgumentsByReference\classVStruct\bin\Debug\classVStruct.pdb
+C:\Users\пк\source\repos\RefPassingArgumentsByReference\classVStruct\obj\Debug\classVStruct.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\RefPassingArgumentsByReference\classVStruct\obj\Debug\classVStruct.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\RefPassingArgumentsByReference\classVStruct\obj\Debug\classVStruct.exe
+C:\Users\пк\source\repos\RefPassingArgumentsByReference\classVStruct\obj\Debug\classVStruct.pdb

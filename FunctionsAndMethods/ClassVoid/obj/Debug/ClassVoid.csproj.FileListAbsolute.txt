@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\FunctionsAndMethods\ClassVoid\bin\Debug\ClassVoid.exe.config
+C:\Users\пк\source\repos\FunctionsAndMethods\ClassVoid\bin\Debug\ClassVoid.exe
+C:\Users\пк\source\repos\FunctionsAndMethods\ClassVoid\bin\Debug\ClassVoid.pdb
+C:\Users\пк\source\repos\FunctionsAndMethods\ClassVoid\obj\Debug\ClassVoid.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\FunctionsAndMethods\ClassVoid\obj\Debug\ClassVoid.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\FunctionsAndMethods\ClassVoid\obj\Debug\ClassVoid.exe
+C:\Users\пк\source\repos\FunctionsAndMethods\ClassVoid\obj\Debug\ClassVoid.pdb

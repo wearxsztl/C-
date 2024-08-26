@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\OverloadingMethods\OverloadingMethods\obj\Debug\OverloadingMethods.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\OverloadingMethods\OverloadingMethods\obj\Debug\OverloadingMethods.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\OverloadingMethods\OverloadingMethods\bin\Debug\OverloadingMethods.exe.config
+C:\Users\пк\source\repos\OverloadingMethods\OverloadingMethods\bin\Debug\OverloadingMethods.exe
+C:\Users\пк\source\repos\OverloadingMethods\OverloadingMethods\bin\Debug\OverloadingMethods.pdb
+C:\Users\пк\source\repos\OverloadingMethods\OverloadingMethods\obj\Debug\OverloadingMethods.exe
+C:\Users\пк\source\repos\OverloadingMethods\OverloadingMethods\obj\Debug\OverloadingMethods.pdb

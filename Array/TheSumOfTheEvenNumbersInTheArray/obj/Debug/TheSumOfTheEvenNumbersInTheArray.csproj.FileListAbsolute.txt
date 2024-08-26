@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\Array\TheSumOfTheEvenNumbersInTheArray\bin\Debug\TheSumOfTheEvenNumbersInTheArray.exe.config
+C:\Users\пк\source\repos\Array\TheSumOfTheEvenNumbersInTheArray\bin\Debug\TheSumOfTheEvenNumbersInTheArray.exe
+C:\Users\пк\source\repos\Array\TheSumOfTheEvenNumbersInTheArray\bin\Debug\TheSumOfTheEvenNumbersInTheArray.pdb
+C:\Users\пк\source\repos\Array\TheSumOfTheEvenNumbersInTheArray\obj\Debug\TheSumOfTheEvenNumbersInTheArray.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\Array\TheSumOfTheEvenNumbersInTheArray\obj\Debug\TheSumOfTheEvenNumbersInTheArray.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Array\TheSumOfTheEvenNumbersInTheArray\obj\Debug\TheSumOfTheEvenNumbersInTheArray.exe
+C:\Users\пк\source\repos\Array\TheSumOfTheEvenNumbersInTheArray\obj\Debug\TheSumOfTheEvenNumbersInTheArray.pdb

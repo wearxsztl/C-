@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\ChangeTheSizeof the Array\ChangeTheSizeof the Array\bin\Debug\ChangeTheSizeof the Array.exe.config
+C:\Users\пк\source\repos\ChangeTheSizeof the Array\ChangeTheSizeof the Array\bin\Debug\ChangeTheSizeof the Array.exe
+C:\Users\пк\source\repos\ChangeTheSizeof the Array\ChangeTheSizeof the Array\bin\Debug\ChangeTheSizeof the Array.pdb
+C:\Users\пк\source\repos\ChangeTheSizeof the Array\ChangeTheSizeof the Array\obj\Debug\ChangeTheSizeof the Array.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\ChangeTheSizeof the Array\ChangeTheSizeof the Array\obj\Debug\ChangeTheSizeof the Array.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\ChangeTheSizeof the Array\ChangeTheSizeof the Array\obj\Debug\ChangeTheSizeof the Array.exe
+C:\Users\пк\source\repos\ChangeTheSizeof the Array\ChangeTheSizeof the Array\obj\Debug\ChangeTheSizeof the Array.pdb

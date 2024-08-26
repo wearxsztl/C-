@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\RefPassingArgumentsByReference\RefPassingArgumentsByReference\bin\Debug\RefPassingArgumentsByReference.exe.config
+C:\Users\пк\source\repos\RefPassingArgumentsByReference\RefPassingArgumentsByReference\bin\Debug\RefPassingArgumentsByReference.exe
+C:\Users\пк\source\repos\RefPassingArgumentsByReference\RefPassingArgumentsByReference\bin\Debug\RefPassingArgumentsByReference.pdb
+C:\Users\пк\source\repos\RefPassingArgumentsByReference\RefPassingArgumentsByReference\obj\Debug\RefPassingArgumentsByReference.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\RefPassingArgumentsByReference\RefPassingArgumentsByReference\obj\Debug\RefPassingArgumentsByReference.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\RefPassingArgumentsByReference\RefPassingArgumentsByReference\obj\Debug\RefPassingArgumentsByReference.exe
+C:\Users\пк\source\repos\RefPassingArgumentsByReference\RefPassingArgumentsByReference\obj\Debug\RefPassingArgumentsByReference.pdb

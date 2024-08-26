@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\Walking\Walking\obj\Debug\Walking.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\Walking\Walking\obj\Debug\Walking.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Walking\Walking\bin\Debug\Walking.exe.config
+C:\Users\пк\source\repos\Walking\Walking\bin\Debug\Walking.exe
+C:\Users\пк\source\repos\Walking\Walking\bin\Debug\Walking.pdb
+C:\Users\пк\source\repos\Walking\Walking\obj\Debug\Walking.exe
+C:\Users\пк\source\repos\Walking\Walking\obj\Debug\Walking.pdb

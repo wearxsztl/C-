@@ -1,0 +1,10 @@
+C:\Users\пк\source\repos\NullUniti\LessonWinForms\bin\Debug\LessonWinForms.exe.config
+C:\Users\пк\source\repos\NullUniti\LessonWinForms\bin\Debug\LessonWinForms.exe
+C:\Users\пк\source\repos\NullUniti\LessonWinForms\bin\Debug\LessonWinForms.pdb
+C:\Users\пк\source\repos\NullUniti\LessonWinForms\obj\Debug\LessonWinForms.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\NullUniti\LessonWinForms\obj\Debug\LessonWinForms.Form1.resources
+C:\Users\пк\source\repos\NullUniti\LessonWinForms\obj\Debug\LessonWinForms.Properties.Resources.resources
+C:\Users\пк\source\repos\NullUniti\LessonWinForms\obj\Debug\LessonWinForms.csproj.GenerateResource.cache
+C:\Users\пк\source\repos\NullUniti\LessonWinForms\obj\Debug\LessonWinForms.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\NullUniti\LessonWinForms\obj\Debug\LessonWinForms.exe
+C:\Users\пк\source\repos\NullUniti\LessonWinForms\obj\Debug\LessonWinForms.pdb

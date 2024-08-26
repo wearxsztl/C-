@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\Codewars\WorkWithRandom\bin\Debug\WorkWithRandom.exe.config
+C:\Users\пк\source\repos\Codewars\WorkWithRandom\bin\Debug\WorkWithRandom.exe
+C:\Users\пк\source\repos\Codewars\WorkWithRandom\bin\Debug\WorkWithRandom.pdb
+C:\Users\пк\source\repos\Codewars\WorkWithRandom\obj\Debug\WorkWithRandom.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\Codewars\WorkWithRandom\obj\Debug\WorkWithRandom.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Codewars\WorkWithRandom\obj\Debug\WorkWithRandom.exe
+C:\Users\пк\source\repos\Codewars\WorkWithRandom\obj\Debug\WorkWithRandom.pdb

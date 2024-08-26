@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\ArithmeticCompletion\ArithmeticCompletion\bin\Debug\ArithmeticCompletion.exe.config
+C:\Users\пк\source\repos\ArithmeticCompletion\ArithmeticCompletion\bin\Debug\ArithmeticCompletion.exe
+C:\Users\пк\source\repos\ArithmeticCompletion\ArithmeticCompletion\bin\Debug\ArithmeticCompletion.pdb
+C:\Users\пк\source\repos\ArithmeticCompletion\ArithmeticCompletion\obj\Debug\ArithmeticCompletion.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\ArithmeticCompletion\ArithmeticCompletion\obj\Debug\ArithmeticCompletion.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\ArithmeticCompletion\ArithmeticCompletion\obj\Debug\ArithmeticCompletion.exe
+C:\Users\пк\source\repos\ArithmeticCompletion\ArithmeticCompletion\obj\Debug\ArithmeticCompletion.pdb

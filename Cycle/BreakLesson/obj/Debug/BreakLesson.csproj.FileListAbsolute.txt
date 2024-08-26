@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\Cycle\BreakLesson\bin\Debug\BreakLesson.exe.config
+C:\Users\пк\source\repos\Cycle\BreakLesson\bin\Debug\BreakLesson.exe
+C:\Users\пк\source\repos\Cycle\BreakLesson\bin\Debug\BreakLesson.pdb
+C:\Users\пк\source\repos\Cycle\BreakLesson\obj\Debug\BreakLesson.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\Cycle\BreakLesson\obj\Debug\BreakLesson.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Cycle\BreakLesson\obj\Debug\BreakLesson.exe
+C:\Users\пк\source\repos\Cycle\BreakLesson\obj\Debug\BreakLesson.pdb

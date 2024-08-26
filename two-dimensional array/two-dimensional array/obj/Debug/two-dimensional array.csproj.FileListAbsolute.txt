@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\two-dimensional array\two-dimensional array\bin\Debug\two-dimensional array.exe.config
+C:\Users\пк\source\repos\two-dimensional array\two-dimensional array\bin\Debug\two-dimensional array.exe
+C:\Users\пк\source\repos\two-dimensional array\two-dimensional array\bin\Debug\two-dimensional array.pdb
+C:\Users\пк\source\repos\two-dimensional array\two-dimensional array\obj\Debug\two-dimensional array.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\two-dimensional array\two-dimensional array\obj\Debug\two-dimensional array.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\two-dimensional array\two-dimensional array\obj\Debug\two-dimensional array.exe
+C:\Users\пк\source\repos\two-dimensional array\two-dimensional array\obj\Debug\two-dimensional array.pdb

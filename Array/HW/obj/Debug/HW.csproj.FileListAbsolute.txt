@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\Array\HW\bin\Debug\HW.exe.config
+C:\Users\пк\source\repos\Array\HW\bin\Debug\HW.exe
+C:\Users\пк\source\repos\Array\HW\bin\Debug\HW.pdb
+C:\Users\пк\source\repos\Array\HW\obj\Debug\HW.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\Array\HW\obj\Debug\HW.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Array\HW\obj\Debug\HW.exe
+C:\Users\пк\source\repos\Array\HW\obj\Debug\HW.pdb

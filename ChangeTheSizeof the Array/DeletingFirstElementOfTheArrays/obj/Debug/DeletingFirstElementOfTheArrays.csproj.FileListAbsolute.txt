@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\ChangeTheSizeof the Array\DeletingFirstElementOfTheArrays\bin\Debug\DeletingFirstElementOfTheArrays.exe.config
+C:\Users\пк\source\repos\ChangeTheSizeof the Array\DeletingFirstElementOfTheArrays\bin\Debug\DeletingFirstElementOfTheArrays.exe
+C:\Users\пк\source\repos\ChangeTheSizeof the Array\DeletingFirstElementOfTheArrays\bin\Debug\DeletingFirstElementOfTheArrays.pdb
+C:\Users\пк\source\repos\ChangeTheSizeof the Array\DeletingFirstElementOfTheArrays\obj\Debug\DeletingFirstElementOfTheArrays.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\ChangeTheSizeof the Array\DeletingFirstElementOfTheArrays\obj\Debug\DeletingFirstElementOfTheArrays.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\ChangeTheSizeof the Array\DeletingFirstElementOfTheArrays\obj\Debug\DeletingFirstElementOfTheArrays.exe
+C:\Users\пк\source\repos\ChangeTheSizeof the Array\DeletingFirstElementOfTheArrays\obj\Debug\DeletingFirstElementOfTheArrays.pdb

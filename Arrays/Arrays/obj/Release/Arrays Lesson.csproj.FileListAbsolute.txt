@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\Arrays\Arrays\bin\Release\Arrays.exe.config
+C:\Users\пк\source\repos\Arrays\Arrays\bin\Release\Arrays.exe
+C:\Users\пк\source\repos\Arrays\Arrays\bin\Release\Arrays.pdb
+C:\Users\пк\source\repos\Arrays\Arrays\obj\Release\Arrays Lesson.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\Arrays\Arrays\obj\Release\Arrays Lesson.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Arrays\Arrays\obj\Release\Arrays.exe
+C:\Users\пк\source\repos\Arrays\Arrays\obj\Release\Arrays.pdb

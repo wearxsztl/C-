@@ -1,0 +1,4 @@
+C:\Users\пк\source\repos\IndexAndRanges\IndexAndRanges\obj\Debug\netcoreapp3.0\IndexAndRanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\source\repos\IndexAndRanges\IndexAndRanges\obj\Debug\netcoreapp3.0\IndexAndRanges.AssemblyInfoInputs.cache
+C:\Users\пк\source\repos\IndexAndRanges\IndexAndRanges\obj\Debug\netcoreapp3.0\IndexAndRanges.AssemblyInfo.cs
+C:\Users\пк\source\repos\IndexAndRanges\IndexAndRanges\obj\Debug\netcoreapp3.0\IndexAndRanges.csproj.CoreCompileInputs.cache

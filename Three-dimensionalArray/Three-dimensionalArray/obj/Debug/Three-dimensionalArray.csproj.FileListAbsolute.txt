@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\Three-dimensionalArray\Three-dimensionalArray\bin\Debug\Three-dimensionalArray.exe.config
+C:\Users\пк\source\repos\Three-dimensionalArray\Three-dimensionalArray\bin\Debug\Three-dimensionalArray.exe
+C:\Users\пк\source\repos\Three-dimensionalArray\Three-dimensionalArray\bin\Debug\Three-dimensionalArray.pdb
+C:\Users\пк\source\repos\Three-dimensionalArray\Three-dimensionalArray\obj\Debug\Three-dimensionalArray.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\Three-dimensionalArray\Three-dimensionalArray\obj\Debug\Three-dimensionalArray.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Three-dimensionalArray\Three-dimensionalArray\obj\Debug\Three-dimensionalArray.exe
+C:\Users\пк\source\repos\Three-dimensionalArray\Three-dimensionalArray\obj\Debug\Three-dimensionalArray.pdb

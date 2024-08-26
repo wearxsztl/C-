@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\Codewars\Century\bin\Debug\Century.exe.config
+C:\Users\пк\source\repos\Codewars\Century\bin\Debug\Century.exe
+C:\Users\пк\source\repos\Codewars\Century\bin\Debug\Century.pdb
+C:\Users\пк\source\repos\Codewars\Century\obj\Debug\Century.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\Codewars\Century\obj\Debug\Century.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Codewars\Century\obj\Debug\Century.exe
+C:\Users\пк\source\repos\Codewars\Century\obj\Debug\Century.pdb

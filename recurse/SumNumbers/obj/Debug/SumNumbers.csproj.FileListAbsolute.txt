@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\recurse\SumNumbers\bin\Debug\SumNumbers.exe.config
+C:\Users\пк\source\repos\recurse\SumNumbers\bin\Debug\SumNumbers.exe
+C:\Users\пк\source\repos\recurse\SumNumbers\bin\Debug\SumNumbers.pdb
+C:\Users\пк\source\repos\recurse\SumNumbers\obj\Debug\SumNumbers.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\recurse\SumNumbers\obj\Debug\SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\recurse\SumNumbers\obj\Debug\SumNumbers.exe
+C:\Users\пк\source\repos\recurse\SumNumbers\obj\Debug\SumNumbers.pdb

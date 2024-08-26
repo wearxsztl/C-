@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\Array\SmallestNumber\bin\Debug\SmallestNumber.exe.config
+C:\Users\пк\source\repos\Array\SmallestNumber\bin\Debug\SmallestNumber.exe
+C:\Users\пк\source\repos\Array\SmallestNumber\bin\Debug\SmallestNumber.pdb
+C:\Users\пк\source\repos\Array\SmallestNumber\obj\Debug\SmallestNumber.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\Array\SmallestNumber\obj\Debug\SmallestNumber.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Array\SmallestNumber\obj\Debug\SmallestNumber.exe
+C:\Users\пк\source\repos\Array\SmallestNumber\obj\Debug\SmallestNumber.pdb

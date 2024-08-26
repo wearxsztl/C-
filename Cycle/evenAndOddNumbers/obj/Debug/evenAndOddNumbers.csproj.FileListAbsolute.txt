@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\Cycle\evenAndOddNumbers\bin\Debug\evenAndOddNumbers.exe.config
+C:\Users\пк\source\repos\Cycle\evenAndOddNumbers\bin\Debug\evenAndOddNumbers.exe
+C:\Users\пк\source\repos\Cycle\evenAndOddNumbers\bin\Debug\evenAndOddNumbers.pdb
+C:\Users\пк\source\repos\Cycle\evenAndOddNumbers\obj\Debug\evenAndOddNumbers.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\Cycle\evenAndOddNumbers\obj\Debug\evenAndOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Cycle\evenAndOddNumbers\obj\Debug\evenAndOddNumbers.exe
+C:\Users\пк\source\repos\Cycle\evenAndOddNumbers\obj\Debug\evenAndOddNumbers.pdb

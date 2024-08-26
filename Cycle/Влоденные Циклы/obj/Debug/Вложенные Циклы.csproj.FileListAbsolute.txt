@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\Cycle\Влоденные Циклы\bin\Debug\Влоденные Циклы.exe.config
+C:\Users\пк\source\repos\Cycle\Влоденные Циклы\bin\Debug\Влоденные Циклы.exe
+C:\Users\пк\source\repos\Cycle\Влоденные Циклы\bin\Debug\Влоденные Циклы.pdb
+C:\Users\пк\source\repos\Cycle\Влоденные Циклы\obj\Debug\Вложенные Циклы.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\Cycle\Влоденные Циклы\obj\Debug\Вложенные Циклы.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Cycle\Влоденные Циклы\obj\Debug\Влоденные Циклы.exe
+C:\Users\пк\source\repos\Cycle\Влоденные Циклы\obj\Debug\Влоденные Циклы.pdb

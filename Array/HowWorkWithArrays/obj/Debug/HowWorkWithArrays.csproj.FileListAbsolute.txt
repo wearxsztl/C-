@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\Array\HowWorkWithArrays\bin\Debug\HowWorkWithArrays.exe.config
+C:\Users\пк\source\repos\Array\HowWorkWithArrays\bin\Debug\HowWorkWithArrays.exe
+C:\Users\пк\source\repos\Array\HowWorkWithArrays\bin\Debug\HowWorkWithArrays.pdb
+C:\Users\пк\source\repos\Array\HowWorkWithArrays\obj\Debug\HowWorkWithArrays.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\Array\HowWorkWithArrays\obj\Debug\HowWorkWithArrays.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Array\HowWorkWithArrays\obj\Debug\HowWorkWithArrays.exe
+C:\Users\пк\source\repos\Array\HowWorkWithArrays\obj\Debug\HowWorkWithArrays.pdb

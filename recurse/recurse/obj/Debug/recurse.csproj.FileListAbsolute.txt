@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\recurse\recurse\bin\Debug\recurse.exe.config
+C:\Users\пк\source\repos\recurse\recurse\bin\Debug\recurse.exe
+C:\Users\пк\source\repos\recurse\recurse\bin\Debug\recurse.pdb
+C:\Users\пк\source\repos\recurse\recurse\obj\Debug\recurse.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\recurse\recurse\obj\Debug\recurse.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\recurse\recurse\obj\Debug\recurse.exe
+C:\Users\пк\source\repos\recurse\recurse\obj\Debug\recurse.pdb

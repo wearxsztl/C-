@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\Three-dimensionalArray\jagged 3array\bin\Debug\jagged 3array.exe.config
+C:\Users\пк\source\repos\Three-dimensionalArray\jagged 3array\bin\Debug\jagged 3array.exe
+C:\Users\пк\source\repos\Three-dimensionalArray\jagged 3array\bin\Debug\jagged 3array.pdb
+C:\Users\пк\source\repos\Three-dimensionalArray\jagged 3array\obj\Debug\jagged 3array.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\Three-dimensionalArray\jagged 3array\obj\Debug\jagged 3array.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Three-dimensionalArray\jagged 3array\obj\Debug\jagged 3array.exe
+C:\Users\пк\source\repos\Three-dimensionalArray\jagged 3array\obj\Debug\jagged 3array.pdb

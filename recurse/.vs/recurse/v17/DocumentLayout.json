@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u043F\u043A\\source\\repos\\recurse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC65B5DF-0A7A-4D21-AB10-CAE3E5344B6E}|SumNumbers\\SumNumbers.csproj|c:\\users\\\u043F\u043A\\source\\repos\\recurse\\sumnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC65B5DF-0A7A-4D21-AB10-CAE3E5344B6E}|SumNumbers\\SumNumbers.csproj|solutionrelative:sumnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431FBE6D-20B2-4412-8910-8A7BB3DB4F26}|SummElemntsWithRecurs\\SummElemntsWithRecurs.csproj|C:\\Users\\\u043F\u043A\\source\\repos\\recurse\\summelemntswithrecurs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431FBE6D-20B2-4412-8910-8A7BB3DB4F26}|SummElemntsWithRecurs\\SummElemntsWithRecurs.csproj|solutionrelative:summelemntswithrecurs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973C5768-16E1-447A-89AC-C5DAA9C20B5E}|OutputArrayWithRecurse\\OutputArrayWithRecurse.csproj|C:\\Users\\\u043F\u043A\\source\\repos\\recurse\\outputarraywithrecurse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{973C5768-16E1-447A-89AC-C5DAA9C20B5E}|OutputArrayWithRecurse\\OutputArrayWithRecurse.csproj|solutionrelative:outputarraywithrecurse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2187C375-8B2F-4393-BD26-6713190723A2}|recurse\\recurse.csproj|C:\\Users\\\u043F\u043A\\source\\repos\\recurse\\recurse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2187C375-8B2F-4393-BD26-6713190723A2}|recurse\\recurse.csproj|solutionrelative:recurse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043A\\source\\repos\\recurse\\SumNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "SumNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043A\\source\\repos\\recurse\\SumNumbers\\Program.cs",
+              "RelativeToolTip": "SumNumbers\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:28:51.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043A\\source\\repos\\recurse\\SummElemntsWithRecurs\\Program.cs",
+              "RelativeDocumentMoniker": "SummElemntsWithRecurs\\Program.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043A\\source\\repos\\recurse\\SummElemntsWithRecurs\\Program.cs",
+              "RelativeToolTip": "SummElemntsWithRecurs\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T06:30:24.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043A\\source\\repos\\recurse\\OutputArrayWithRecurse\\Program.cs",
+              "RelativeDocumentMoniker": "OutputArrayWithRecurse\\Program.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043A\\source\\repos\\recurse\\OutputArrayWithRecurse\\Program.cs",
+              "RelativeToolTip": "OutputArrayWithRecurse\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T12:04:19.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043A\\source\\repos\\recurse\\recurse\\Program.cs",
+              "RelativeDocumentMoniker": "recurse\\Program.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043A\\source\\repos\\recurse\\recurse\\Program.cs",
+              "RelativeToolTip": "recurse\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:03:14.212Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

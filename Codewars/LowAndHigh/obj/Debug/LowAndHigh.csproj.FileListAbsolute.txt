@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\Codewars\LowAndHigh\obj\Debug\LowAndHigh.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\Codewars\LowAndHigh\obj\Debug\LowAndHigh.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Codewars\LowAndHigh\bin\Debug\LowAndHigh.exe.config
+C:\Users\пк\source\repos\Codewars\LowAndHigh\bin\Debug\LowAndHigh.exe
+C:\Users\пк\source\repos\Codewars\LowAndHigh\bin\Debug\LowAndHigh.pdb
+C:\Users\пк\source\repos\Codewars\LowAndHigh\obj\Debug\LowAndHigh.exe
+C:\Users\пк\source\repos\Codewars\LowAndHigh\obj\Debug\LowAndHigh.pdb

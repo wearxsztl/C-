@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\Codewars\ReturNoYes\obj\Debug\ReturNoYes.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\Codewars\ReturNoYes\obj\Debug\ReturNoYes.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Codewars\ReturNoYes\bin\Debug\ReturNoYes.exe.config
+C:\Users\пк\source\repos\Codewars\ReturNoYes\bin\Debug\ReturNoYes.exe
+C:\Users\пк\source\repos\Codewars\ReturNoYes\bin\Debug\ReturNoYes.pdb
+C:\Users\пк\source\repos\Codewars\ReturNoYes\obj\Debug\ReturNoYes.exe
+C:\Users\пк\source\repos\Codewars\ReturNoYes\obj\Debug\ReturNoYes.pdb

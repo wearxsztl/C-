@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\FunctionsAndMethods\HWReturn\obj\Debug\HWReturn.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\FunctionsAndMethods\HWReturn\obj\Debug\HWReturn.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\FunctionsAndMethods\HWReturn\bin\Debug\HWReturn.exe.config
+C:\Users\пк\source\repos\FunctionsAndMethods\HWReturn\bin\Debug\HWReturn.exe
+C:\Users\пк\source\repos\FunctionsAndMethods\HWReturn\bin\Debug\HWReturn.pdb
+C:\Users\пк\source\repos\FunctionsAndMethods\HWReturn\obj\Debug\HWReturn.exe
+C:\Users\пк\source\repos\FunctionsAndMethods\HWReturn\obj\Debug\HWReturn.pdb

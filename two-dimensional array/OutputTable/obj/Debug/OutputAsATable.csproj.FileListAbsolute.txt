@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\two-dimensional array\OutputTable\bin\Debug\OutputTable.exe.config
+C:\Users\пк\source\repos\two-dimensional array\OutputTable\bin\Debug\OutputTable.exe
+C:\Users\пк\source\repos\two-dimensional array\OutputTable\bin\Debug\OutputTable.pdb
+C:\Users\пк\source\repos\two-dimensional array\OutputTable\obj\Debug\OutputAsATable.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\two-dimensional array\OutputTable\obj\Debug\OutputAsATable.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\two-dimensional array\OutputTable\obj\Debug\OutputTable.exe
+C:\Users\пк\source\repos\two-dimensional array\OutputTable\obj\Debug\OutputTable.pdb

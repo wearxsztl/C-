@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefPassingArgumentsByReference", "RefPassingArgumentsByReference\RefPassingArgumentsByReference.csproj", "{650488DC-D138-44C6-AC65-64642DF4010F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classVStruct", "classVStruct\classVStruct.csproj", "{4F776F57-FA44-41A4-87E7-1DCC080A6E67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{650488DC-D138-44C6-AC65-64642DF4010F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{650488DC-D138-44C6-AC65-64642DF4010F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{650488DC-D138-44C6-AC65-64642DF4010F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{650488DC-D138-44C6-AC65-64642DF4010F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F776F57-FA44-41A4-87E7-1DCC080A6E67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F776F57-FA44-41A4-87E7-1DCC080A6E67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F776F57-FA44-41A4-87E7-1DCC080A6E67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F776F57-FA44-41A4-87E7-1DCC080A6E67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E9F42A7-A451-47DF-B273-3C6F100DFAD7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\ChangeTheSizeof the Array\addindInToBeginningandEnd\obj\Debug\addindInToBeginningandEnd.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\ChangeTheSizeof the Array\addindInToBeginningandEnd\obj\Debug\addindInToBeginningandEnd.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\ChangeTheSizeof the Array\addindInToBeginningandEnd\bin\Debug\addindInToBeginningandEnd.exe.config
+C:\Users\пк\source\repos\ChangeTheSizeof the Array\addindInToBeginningandEnd\bin\Debug\addindInToBeginningandEnd.exe
+C:\Users\пк\source\repos\ChangeTheSizeof the Array\addindInToBeginningandEnd\bin\Debug\addindInToBeginningandEnd.pdb
+C:\Users\пк\source\repos\ChangeTheSizeof the Array\addindInToBeginningandEnd\obj\Debug\addindInToBeginningandEnd.exe
+C:\Users\пк\source\repos\ChangeTheSizeof the Array\addindInToBeginningandEnd\obj\Debug\addindInToBeginningandEnd.pdb

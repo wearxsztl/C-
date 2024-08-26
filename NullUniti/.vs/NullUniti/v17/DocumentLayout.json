@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u043F\u043A\\source\\repos\\NullUniti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D7F693B-9AFE-4956-A18D-E77033312FE4}|NullUniti\\NullUniti.csproj|c:\\users\\\u043F\u043A\\source\\repos\\nulluniti\\nulluniti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D7F693B-9AFE-4956-A18D-E77033312FE4}|NullUniti\\NullUniti.csproj|solutionrelative:nulluniti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891F0A0B-4610-48CF-8B58-32ECC748BD6E}|LessonWinForms\\LessonWinForms.csproj|C:\\Users\\\u043F\u043A\\source\\repos\\NullUniti\\lessonwinforms\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891F0A0B-4610-48CF-8B58-32ECC748BD6E}|LessonWinForms\\LessonWinForms.csproj|solutionrelative:lessonwinforms\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891F0A0B-4610-48CF-8B58-32ECC748BD6E}|LessonWinForms\\LessonWinForms.csproj|C:\\Users\\\u043F\u043A\\source\\repos\\NullUniti\\lessonwinforms\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{891F0A0B-4610-48CF-8B58-32ECC748BD6E}|LessonWinForms\\LessonWinForms.csproj|solutionrelative:lessonwinforms\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|LessonWinForms||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891F0A0B-4610-48CF-8B58-32ECC748BD6E}|LessonWinForms\\LessonWinForms.csproj|C:\\Users\\\u043F\u043A\\source\\repos\\NullUniti\\lessonwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{891F0A0B-4610-48CF-8B58-32ECC748BD6E}|LessonWinForms\\LessonWinForms.csproj|solutionrelative:lessonwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043A\\source\\repos\\NullUniti\\NullUniti\\Program.cs",
+              "RelativeDocumentMoniker": "NullUniti\\Program.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043A\\source\\repos\\NullUniti\\NullUniti\\Program.cs",
+              "RelativeToolTip": "NullUniti\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAiwDMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:55:40.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043A\\source\\repos\\NullUniti\\LessonWinForms\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "LessonWinForms\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043A\\source\\repos\\NullUniti\\LessonWinForms\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "LessonWinForms\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:54:29.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043A\\source\\repos\\NullUniti\\LessonWinForms\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "LessonWinForms\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\\u043F\u043A\\source\\repos\\NullUniti\\LessonWinForms\\Properties\\Resources.resx",
+              "RelativeToolTip": "LessonWinForms\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-17T12:54:36.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LessonWinForms",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043A\\source\\repos\\NullUniti\\LessonWinForms\\LessonWinForms.csproj",
+              "RelativeDocumentMoniker": "LessonWinForms\\LessonWinForms.csproj",
+              "ToolTip": "C:\\Users\\\u043F\u043A\\source\\repos\\NullUniti\\LessonWinForms\\LessonWinForms.csproj",
+              "RelativeToolTip": "LessonWinForms\\LessonWinForms.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-17T12:52:45.546Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043A\\source\\repos\\NullUniti\\LessonWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "LessonWinForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043A\\source\\repos\\NullUniti\\LessonWinForms\\Form1.cs [Design]",
+              "RelativeToolTip": "LessonWinForms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-14T12:08:17.906Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

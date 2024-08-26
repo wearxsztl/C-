@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\INAndModifierAndBenchmark\Benchmark\bin\Debug\Benchmark.exe.config
+C:\Users\пк\source\repos\INAndModifierAndBenchmark\Benchmark\bin\Debug\Benchmark.exe
+C:\Users\пк\source\repos\INAndModifierAndBenchmark\Benchmark\bin\Debug\Benchmark.pdb
+C:\Users\пк\source\repos\INAndModifierAndBenchmark\Benchmark\obj\Debug\Benchmark.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\INAndModifierAndBenchmark\Benchmark\obj\Debug\Benchmark.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\INAndModifierAndBenchmark\Benchmark\obj\Debug\Benchmark.exe
+C:\Users\пк\source\repos\INAndModifierAndBenchmark\Benchmark\obj\Debug\Benchmark.pdb

@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\Codewars\numberToString\bin\Debug\numberToString.exe.config
+C:\Users\пк\source\repos\Codewars\numberToString\bin\Debug\numberToString.exe
+C:\Users\пк\source\repos\Codewars\numberToString\bin\Debug\numberToString.pdb
+C:\Users\пк\source\repos\Codewars\numberToString\obj\Debug\numberToString.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\Codewars\numberToString\obj\Debug\numberToString.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Codewars\numberToString\obj\Debug\numberToString.exe
+C:\Users\пк\source\repos\Codewars\numberToString\obj\Debug\numberToString.pdb

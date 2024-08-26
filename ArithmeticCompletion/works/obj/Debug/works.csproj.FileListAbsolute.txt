@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\ArithmeticCompletion\works\bin\Debug\works.exe.config
+C:\Users\пк\source\repos\ArithmeticCompletion\works\bin\Debug\works.exe
+C:\Users\пк\source\repos\ArithmeticCompletion\works\bin\Debug\works.pdb
+C:\Users\пк\source\repos\ArithmeticCompletion\works\obj\Debug\works.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\ArithmeticCompletion\works\obj\Debug\works.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\ArithmeticCompletion\works\obj\Debug\works.exe
+C:\Users\пк\source\repos\ArithmeticCompletion\works\obj\Debug\works.pdb

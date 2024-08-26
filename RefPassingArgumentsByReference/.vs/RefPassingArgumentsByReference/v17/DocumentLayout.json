@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u043F\u043A\\source\\repos\\RefPassingArgumentsByReference\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F776F57-FA44-41A4-87E7-1DCC080A6E67}|classVStruct\\classVStruct.csproj|C:\\Users\\\u043F\u043A\\source\\repos\\RefPassingArgumentsByReference\\classvstruct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F776F57-FA44-41A4-87E7-1DCC080A6E67}|classVStruct\\classVStruct.csproj|solutionrelative:classvstruct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650488DC-D138-44C6-AC65-64642DF4010F}|RefPassingArgumentsByReference\\RefPassingArgumentsByReference.csproj|c:\\users\\\u043F\u043A\\source\\repos\\refpassingargumentsbyreference\\refpassingargumentsbyreference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650488DC-D138-44C6-AC65-64642DF4010F}|RefPassingArgumentsByReference\\RefPassingArgumentsByReference.csproj|solutionrelative:refpassingargumentsbyreference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043A\\source\\repos\\RefPassingArgumentsByReference\\classVStruct\\Program.cs",
+              "RelativeDocumentMoniker": "classVStruct\\Program.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043A\\source\\repos\\RefPassingArgumentsByReference\\classVStruct\\Program.cs",
+              "RelativeToolTip": "classVStruct\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEIAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:05:38.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043A\\source\\repos\\RefPassingArgumentsByReference\\RefPassingArgumentsByReference\\Program.cs",
+              "RelativeDocumentMoniker": "RefPassingArgumentsByReference\\Program.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043A\\source\\repos\\RefPassingArgumentsByReference\\RefPassingArgumentsByReference\\Program.cs",
+              "RelativeToolTip": "RefPassingArgumentsByReference\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwDUAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:47:51.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

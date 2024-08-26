@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\Enum\Color\bin\Debug\Color.exe.config
+C:\Users\пк\source\repos\Enum\Color\bin\Debug\Color.exe
+C:\Users\пк\source\repos\Enum\Color\bin\Debug\Color.pdb
+C:\Users\пк\source\repos\Enum\Color\obj\Debug\Color.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\Enum\Color\obj\Debug\Color.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Enum\Color\obj\Debug\Color.exe
+C:\Users\пк\source\repos\Enum\Color\obj\Debug\Color.pdb

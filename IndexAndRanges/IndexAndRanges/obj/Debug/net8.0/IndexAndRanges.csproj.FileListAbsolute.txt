@@ -1,0 +1,14 @@
+C:\Users\пк\source\repos\IndexAndRanges\IndexAndRanges\bin\Debug\net8.0\IndexAndRanges.exe
+C:\Users\пк\source\repos\IndexAndRanges\IndexAndRanges\bin\Debug\net8.0\IndexAndRanges.deps.json
+C:\Users\пк\source\repos\IndexAndRanges\IndexAndRanges\bin\Debug\net8.0\IndexAndRanges.runtimeconfig.json
+C:\Users\пк\source\repos\IndexAndRanges\IndexAndRanges\bin\Debug\net8.0\IndexAndRanges.dll
+C:\Users\пк\source\repos\IndexAndRanges\IndexAndRanges\bin\Debug\net8.0\IndexAndRanges.pdb
+C:\Users\пк\source\repos\IndexAndRanges\IndexAndRanges\obj\Debug\net8.0\IndexAndRanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\source\repos\IndexAndRanges\IndexAndRanges\obj\Debug\net8.0\IndexAndRanges.AssemblyInfoInputs.cache
+C:\Users\пк\source\repos\IndexAndRanges\IndexAndRanges\obj\Debug\net8.0\IndexAndRanges.AssemblyInfo.cs
+C:\Users\пк\source\repos\IndexAndRanges\IndexAndRanges\obj\Debug\net8.0\IndexAndRanges.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\IndexAndRanges\IndexAndRanges\obj\Debug\net8.0\IndexAndRanges.dll
+C:\Users\пк\source\repos\IndexAndRanges\IndexAndRanges\obj\Debug\net8.0\refint\IndexAndRanges.dll
+C:\Users\пк\source\repos\IndexAndRanges\IndexAndRanges\obj\Debug\net8.0\IndexAndRanges.pdb
+C:\Users\пк\source\repos\IndexAndRanges\IndexAndRanges\obj\Debug\net8.0\IndexAndRanges.genruntimeconfig.cache
+C:\Users\пк\source\repos\IndexAndRanges\IndexAndRanges\obj\Debug\net8.0\ref\IndexAndRanges.dll

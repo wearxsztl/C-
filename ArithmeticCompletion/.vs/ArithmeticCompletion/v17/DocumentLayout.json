@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u043F\u043A\\source\\repos\\ArithmeticCompletion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C77C2041-5E6E-4F9C-A820-F6AA9AB5DF6C}|works\\works.csproj|c:\\users\\\u043F\u043A\\source\\repos\\arithmeticcompletion\\works\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77C2041-5E6E-4F9C-A820-F6AA9AB5DF6C}|works\\works.csproj|solutionrelative:works\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9065F92-92AC-4D1F-9860-212E09143681}|doubleAndFloat\\doubleAndFloat.csproj|C:\\Users\\\u043F\u043A\\source\\repos\\ArithmeticCompletion\\doubleandfloat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9065F92-92AC-4D1F-9860-212E09143681}|doubleAndFloat\\doubleAndFloat.csproj|solutionrelative:doubleandfloat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84754435-19C5-45D6-B1F0-BEBB070FC096}|ArithmeticCompletion\\ArithmeticCompletion.csproj|C:\\Users\\\u043F\u043A\\source\\repos\\ArithmeticCompletion\\arithmeticcompletion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84754435-19C5-45D6-B1F0-BEBB070FC096}|ArithmeticCompletion\\ArithmeticCompletion.csproj|solutionrelative:arithmeticcompletion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043A\\source\\repos\\ArithmeticCompletion\\works\\Program.cs",
+              "RelativeDocumentMoniker": "works\\Program.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043A\\source\\repos\\ArithmeticCompletion\\works\\Program.cs",
+              "RelativeToolTip": "works\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:00:15.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043A\\source\\repos\\ArithmeticCompletion\\doubleAndFloat\\Program.cs",
+              "RelativeDocumentMoniker": "doubleAndFloat\\Program.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043A\\source\\repos\\ArithmeticCompletion\\doubleAndFloat\\Program.cs",
+              "RelativeToolTip": "doubleAndFloat\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T11:47:04.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043A\\source\\repos\\ArithmeticCompletion\\ArithmeticCompletion\\Program.cs",
+              "RelativeDocumentMoniker": "ArithmeticCompletion\\Program.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043A\\source\\repos\\ArithmeticCompletion\\ArithmeticCompletion\\Program.cs",
+              "RelativeToolTip": "ArithmeticCompletion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T11:21:44.497Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

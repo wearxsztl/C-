@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\recurse\OutputArrayWithRecurse\bin\Debug\OutputArrayWithRecurse.exe.config
+C:\Users\пк\source\repos\recurse\OutputArrayWithRecurse\bin\Debug\OutputArrayWithRecurse.exe
+C:\Users\пк\source\repos\recurse\OutputArrayWithRecurse\bin\Debug\OutputArrayWithRecurse.pdb
+C:\Users\пк\source\repos\recurse\OutputArrayWithRecurse\obj\Debug\OutputArrayWithRecurse.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\recurse\OutputArrayWithRecurse\obj\Debug\OutputArrayWithRecurse.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\recurse\OutputArrayWithRecurse\obj\Debug\OutputArrayWithRecurse.exe
+C:\Users\пк\source\repos\recurse\OutputArrayWithRecurse\obj\Debug\OutputArrayWithRecurse.pdb

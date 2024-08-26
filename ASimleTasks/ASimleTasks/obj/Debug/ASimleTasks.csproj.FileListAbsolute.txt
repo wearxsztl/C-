@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\ASimleTasks\ASimleTasks\bin\Debug\ASimleTasks.exe.config
+C:\Users\пк\source\repos\ASimleTasks\ASimleTasks\bin\Debug\ASimleTasks.exe
+C:\Users\пк\source\repos\ASimleTasks\ASimleTasks\bin\Debug\ASimleTasks.pdb
+C:\Users\пк\source\repos\ASimleTasks\ASimleTasks\obj\Debug\ASimleTasks.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\ASimleTasks\ASimleTasks\obj\Debug\ASimleTasks.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\ASimleTasks\ASimleTasks\obj\Debug\ASimleTasks.exe
+C:\Users\пк\source\repos\ASimleTasks\ASimleTasks\obj\Debug\ASimleTasks.pdb
